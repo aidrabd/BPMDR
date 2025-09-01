@@ -99,7 +99,7 @@ def calculate_descriptors(smiles_list, top_morgan_bits=25):
 
 
 def main():
-    print("=== QSAR Training: murablock.py ===")
+    print("=== QSAR Training: BPMDR.py ===")
     csv_path = input("Enter path to your CSV file with 'SMILES' and 'pIC50' columns: ")
     df = pd.read_csv(csv_path, encoding="latin1")
 
@@ -211,4 +211,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
