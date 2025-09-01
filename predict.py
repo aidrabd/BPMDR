@@ -106,7 +106,7 @@ def predict_new(csv_path, output_file):
     print("Calculating descriptors for new molecules (top 25 Morgan bits)...")
     X, feature_names = calculate_descriptors(smiles, top_morgan_bits=25)
 
-    output_dir = "qsar_models"
+    output_dir = "."  # changed to current directory
     scaler = joblib.load(os.path.join(output_dir, "scaler.joblib"))
     top_indices = joblib.load(os.path.join(output_dir, "selected_feature_indices.joblib"))
     final_feature_mask = joblib.load(os.path.join(output_dir, "final_feature_mask.joblib"))
