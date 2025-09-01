@@ -30,7 +30,7 @@ Our validated machine learning models demonstrate excellent predictive performan
 * Python 3.8+
 * pip or conda package manager
 
-### Quick Start
+### Quick Install
 
 ```bash
 git clone https://github.com/aidrabd/BPMDR.git
@@ -81,10 +81,5 @@ BPMDR is intended for research purposes only. Predictions should be validated ex
 - Training data sourced from ChEMBL and literature curation
 - Molecular descriptors computed using RDKit
 - Special thanks to the open-source cheminformatics community
-
-## 🙏 Contact
-
-K.M. Tanjida Islam
-Email: 
 
 ---
