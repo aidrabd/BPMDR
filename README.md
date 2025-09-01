@@ -33,7 +33,7 @@ Our validated machine learning models demonstrate excellent predictive performan
 ### Quick Start
 
 ```bash
-git clone https://github.com/yourusername/BPMDR.git
+git clone https://github.com/aidrabd/BPMDR.git
 cd BPMDR
 pip install -r requirements.txt
 ```
