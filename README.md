@@ -68,7 +68,7 @@ If you use BPMDR in your research, please cite:
 Peptidoglycan biosynthesis is a critical pathway in bacterial cell wall formation and represents an attractive target for antibacterial drug development. Our machine learning models are trained on experimental data from various MDR pathogens including:
 
 - *Staphylococcus aureus* (MRSA)
-- *haemophilus influenzae* 
+- *Haemophilus influenzae* 
 - *Pseudomonas aeruginosa*
 - *Acinetobacter baumannii*
 
