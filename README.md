@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ```bash
 python predict.py
-# Provide input file name (e.g. sample.csv) containing 2 columns: SMILES, pIC50 (Keep pIC50 Column Enpty) 
+# Provide input file name (e.g. sample.csv) containing 2 columns: SMILES, pIC50 (Keep 2nd Column Empty) 
 ```
 
 ## 📝 Input Format
